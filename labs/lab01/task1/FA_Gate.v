@@ -36,4 +36,6 @@ They are not executed sequentially like C/C++ statements.
 In part (c), adding gate delays does change the timing of the waveform.
 The final sum and cout values are still the correct full-adder truth-table values,
 but internal signals and outputs settle after delays.
+
+Testing..
 */
